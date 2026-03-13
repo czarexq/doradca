@@ -1,0 +1,50 @@
+#header {
+    font-size: 30px;
+    text-align: center;
+    font-family: Serif;
+    font-weight:bolder;
+}
+
+body {
+    background-color: #6D9DC5;
+}
+
+#pora {
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: #5f8eb4;
+
+}
+
+#nastroj {
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: #5f8eb4;
+
+}
+
+.classic1 {
+    margin-right: 30px;
+    font-size: 26px;
+    font-weight:bolder;
+
+}
+hr {
+    border: 1px solid #5782a5;
+}
+
+button { 
+    background-color: #5f8eb4;
+    width: 170px;
+    height: 70px;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+
